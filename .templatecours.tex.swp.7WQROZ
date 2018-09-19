@@ -1,0 +1,44 @@
+\documentclass[a4paper]{article}
+
+\usepackage{fullpage} % Package to use full page
+\usepackage{parskip} % Package to tweak paragraph skipping
+\usepackage{tikz} % Package for drawing
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage[francais]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{listings}
+
+\lstset{
+upquote=true,
+columns=flexible,
+basicstyle=\ttfamily,
+language=python,
+textstyle=\color{blue}
+}
+\setlength{\parindent}{10ex}
+
+\title{Homéostasie}
+\author{Julien DENOZI}
+\date{2018}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\par La physiologie est l'étude du rôle du fonctionnement et de l'organisation des mécanimes physiques et biochimiques des organismes vivants\emph{. Comment un organe fonctionne? }. \\
+On retrouve différente fonction qui sont des variables changeante auquels l'organisme va répondre en engendrant des reflexes, comportement, émotions.
+L'homéostasie correspond à tout les mécanismes capable de maintenir l'équilibre physiologique, pour que l'organisme puisse vivre correctement. Quand cette équilibre n'est pas préserver c'est là qu'apparaissent des maladies.
+\par  Les facteurs influençant l'efficacité de l'homéostaie : stress, pathologies, alimentation et sommeil.\\
+
+\section{Principe général de l'homéostasie}
+\par L'unité de base d'un organe est la cellule, plusieurs cellule se différencie et se regroupent afin d'avoir une fonction specifique. Toutes les cellules ont des fonctions différentes mais elles baignent toutes dans u même environnement appelé liquide extra-cellulaire.
+\subsection{Liquide extra-cellulaire}
+Il comprend le liquide intra-vasculaire, le liquide intersticielle, le liquide extracellulaire et le liquide intracellulaire. A proximité de chaque cellule on retrouve de petite rmification appelé capilaire et c'est à ce niveau qu'il y a les échanges entre les cellules.
+
+
+\bibliographystyle{plain}
+\bibliography{bibliography.bib}
+\end{document}

@@ -1,0 +1,9 @@
+18/09/18 TD SYSTEME -------------------------------------------------------
+Killer un processus > kill -9 numéro du processus obtenu par top ou encore
+ps -edf > | grep permet de trouver spéifiquement, ou encore head -ligne
+ppid > processus parent ici terminal
+curl permet de transferer les donnees d'un site
+find ~(correspond à l'autohome) ex: find *.png 
+$ indique une variable
+.bashrc permet de retrouver les alias dejà ut iliser
+ps -edf | grep -v(pour reverse) bash | cut -d(delimiteur) " " -f(premier champ) 1 | sort | uniq permet de faire la liste des utilisateurs de -vbash
