@@ -1,0 +1,3 @@
+somme<-0
+for (i in 1:100){somme=somme+i}
+somme

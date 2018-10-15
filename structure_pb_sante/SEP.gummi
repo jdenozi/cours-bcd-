@@ -1,0 +1,4 @@
+version=0.6.0
+typesetter=pdflatex
+steps=texpdf
+root=/home/denozi/Documents/coursbcd/structure_pb_sante/SEP.tex

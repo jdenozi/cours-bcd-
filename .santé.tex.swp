@@ -1,0 +1,103 @@
+\documentclass[12pt]{article}
+\usepackage[english]{babel}
+\usepackage{natbib}
+\usepackage{url}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\graphicspath{{images/}}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+%\usepackage{vmargin}
+%\usepackage{dirtytalk}
+%\setmarginsrb{3 cm}{2.5 cm}{3 cm}{2.5 cm}{1 cm}{1.5 cm}{1 cm}{1.5 cm}
+
+\title{Grands mécanismes physiopathologiques: les mécanismes endogènes}								% Title
+\author{}								% Author
+\date{}											% Date
+
+\makeatletter
+\let\thetitle\@title
+\let\theauthor\@author
+\let\thedate\@date
+\makeatother
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\theauthor}
+\lhead{\thetitle}
+\cfoot{\thepage}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{titlepage}
+	\centering
+    \vspace*{0.5 cm}
+    \includegraphics[scale = 0.20]{logo.png}\\[1.0 cm]
+    \textsc{\LARGE Faculté des Sciences de Montpellier\newline\newline Bioinformatique, Connaissance, Données}\\[2.0 cm]	% University Name
+	\textsc{\Large Structures et problématiques de santé}\\[0.5 cm]				% Course Code
+	\rule{\linewidth}{0.2 mm} \\[0.4 cm]
+	{ \huge \bfseries \thetitle}\\
+	\rule{\linewidth}{0.2 mm} \\[1.5 cm]
+	
+
+	
+	
+    
+    
+    
+    
+	
+\end{titlepage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\tableofcontents
+\pagebreak
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section {Introduction}
+études des mécanismes perturbant le fonctionnement physiologique d'un organisme et aboutissant au développement d'une maladie.
+Définition de la santé:
+\begin{itemize}
+\item état de complet  bien être phyique, mental, social, ne consistant pas seulement en une absence de maladie ou d'infirmité.
+\item La maladie est une rupture avec la normalité, mais la norme est définie sociologiquement. 
+\item Les affections grave dites orgaiques sont au coeur de l'activité médicale traditionnelle.
+Pour beaucoup d'autre la limite entre physiologique et pathologiqe n'est pas définie a priori par le biologiste ou le clinicien.
+end{itemize}
+\end{itemize}
+\subsection{Le fonctionnement physiologique n'est pas statique}
+Chaque jours au sein d'un organisme, des milliards de cellules:
+\begin{itemize}
+\item naissent
+\item se multiplient, se sdifférencient
+\item disparaissent
+\end{itemize}
+
+Quotidiennement l'organisme fait fàaceà une multitude de désordres aléatories qu'il neutralise par des mécanismes régulateurs.
+
+\begin{itemize}
+\item mutations cellulaires sporadiques, déviances par rapport au développement idéal.
+\item foyers de micro-cancérisation
+\item réparation de lésions induites par des traumatismes mineurs
+\item colonisation invasive ou bactérienne évoluant vers une phase invasive.
+\item adaptation aux contraintes de l'environnement
+\end{itemize}
+Le fonctionnement physiologique suppose: un équilibre dynamique de la croissance cellulaire? une communication régulée entre cellules assurée par le milieu intérieur.
+
+\subsection{Régulation cybernétique de mécanismes physiologiques}
+La cybernétique, science des ilotages, peut s'applaiquer à la physiologie. Elle permet une approche non spécialisée mais scientifiquement exacte de la régulation des phénomènes assurant l'homéostasie de l'organisme.
+
+\subsection{La régulation homéostatique un système asservi}
+
+Modalités de la mort cellulaire
+\hspace{1 cm}--- Ju
+
+\newpage
+\bibliographystyle{plain}
+\bibliography{biblist}
+enter
+\end{document}
