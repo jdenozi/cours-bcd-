@@ -1,0 +1,12 @@
+#Présentation projet HMIN113M:Python
+1) Analyse d'un fichier VCF (V de variant)
+	Un variant est le résultat d'une comparaison entre deux donnees génomiques
+	Combien de variation
+	Ou se trouve t'elle
+	Est ce qu'il y a le même nombre de variation
+	Extraction des informations
+	Sortie graphique, sortir des graphes python
+2) Congruence parallélisme entre arbre des gènes et arbre des espèces
+	L'arbre des espèces est-elle en accord avec l'arbre des gènes
+	Prendre en entrée des données d'arbre en format newick
+
