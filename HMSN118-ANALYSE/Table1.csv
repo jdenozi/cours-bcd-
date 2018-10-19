@@ -1,10 +1,7 @@
-Nom_latin,Taxonomie,Accession
-Vombatus ursinus,Marsupiaux,AF284031
-Orycteropus afer,Afrothériens,AF284030
-Elephas maximus,Afrothériens,AF284022
-Dasypus novemcinctus,Xénarthres,AF283999
-Bradypus tridactylus,Xénarthres,AF284002
-Tupaia tana,Euarchontoglires,AF284006
-Lepus capensis,Euarchontoglires,AF284005
-Bos taurus,Laurasiathériens,AF284013
-,,AF284008
+Taxonomie,Espèces,Régime alimentaire,Dents
+Afrotheria,Orycteropus afer,Myrmécophage (Termivore),Oui mais pas d'émail
+Afrotheria,Loxodonta africana,Herbivore,Oui
+Afrotheria,Procavia capensis,Herbivore,Oui
+Laurasiatheria,Sus scrofa,Omnivore,Oui
+Laurasiatheria,Manis pentadactyla,Myrmécophage (Termivore),Non
+Laurasiatheria,Lama glama,Herbivore,Oui
